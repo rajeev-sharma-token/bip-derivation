@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"flag"
 	"fmt"
-	"github.com/roosmaa/nano-bip39-demo/internal/ed25519"
+	"github.com/rajeev-sharma-token/nano-bip39-demo/internal/ed25519"
 	"github.com/tyler-smith/go-bip39"
 )
 

@@ -24,7 +24,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/roosmaa/nano-bip39-demo/internal/ed25519/internal/edwards25519"
+	"github.com/rajeev-sharma-token/nano-bip39-demo/internal/ed25519/internal/edwards25519"
 )
 
 const (
